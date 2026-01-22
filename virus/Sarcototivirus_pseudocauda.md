@@ -1,4 +1,4 @@
-# Tail of Two Hosts: Tracing a Cryptic Totiviridae-Associated Virus in Bovine Muscle Transcriptomes
+# A Tail of Two Hosts: Tracing a Cryptic Totiviridae-Associated Virus in Bovine Muscle Transcriptomes
 written by: [Khushi Kankaria](https://github.com/khushikankaria)
 
 [YouTube/Video Link to your presentation video](TBD)
